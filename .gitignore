@@ -1,0 +1,6 @@
+# Project exclude paths
+/dist/
+/node_modules/
+/src/app.js.map
+/src/Vector.js
+/src/Vector.js.map
